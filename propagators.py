@@ -1,7 +1,7 @@
 # =============================
-# Student Names:
-# Group ID:
-# Date:
+# Student Names: E Ching Kho (Noon) (20118077) (17eck3@queensu.ca) & Chenhao Zhu (20112538) (17cz43@queensu.ca) & Sifan Zhu(20091314) (17sz36@queensu.ca)
+# Group ID: 58 
+# Date: Feb.13.2022
 # =============================
 # CISC 352 - W22
 # propagators.py
