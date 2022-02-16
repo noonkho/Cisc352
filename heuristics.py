@@ -1,7 +1,7 @@
 # =============================
-# Student Names:
-# Group ID:
-# Date:
+# Student Names: E Ching Kho (Noon) (20118077) (17eck3@queensu.ca) & Chenhao Zhu (20112538) (17cz43@queensu.ca) & Sifan Zhu(20091314) (17sz36@queensu.ca)
+# Group ID: 58 
+# Date: Feb.15.2022
 # =============================
 # CISC 352 - W22
 # heuristics.py
@@ -29,7 +29,7 @@ var_ordering == a function with the following template
 
 def ord_dh(csp):
     ''' return variables according to the Degree Heuristic '''
-    '''degree  是限制数量的个数'''
+    
     variable_name = []
     temp = []
 
@@ -46,9 +46,7 @@ def ord_dh(csp):
 def ord_mrv(csp):
 
     ''' return variable according to the Minimum Remaining Values heuristic '''
-    '''
-    最小化剩余变量（minimum remaining values）：优先选择合法值（可能性）最少的变量赋值，挑软柿子捏，这样更接近答案
-    '''
+    
     '''
     num_v = []
     var_store = []
